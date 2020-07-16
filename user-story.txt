@@ -1,0 +1,8 @@
+
+
+ * As a user, I want to enjoy using this tool and not to struggle.
+
+ * As a user, I want to access this tool on any device that has a web browser.
+
+ * As a user, I want to keep the records of my activities within this tool.
+
